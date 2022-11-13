@@ -90,7 +90,7 @@ DerivedDataCache/*
 /Content/*
 !/Content/Demo
 
-Plugins/GASCompanion
+# Plugins/GASCompanion
 Plugins/BlueprintAttributeSets
 Plugins/Developer
 Backups
